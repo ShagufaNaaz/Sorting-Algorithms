@@ -7,3 +7,5 @@ The solutions for below programs are mainly in Java Programming Language
 ->Shell Sort
 ->Stooge Sort
 ->Tree Sort
+->Comb Sort
+->Bucket Sort
